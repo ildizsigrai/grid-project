@@ -1,14 +1,3 @@
-// const btn = document.querySelector("#btn");
-
-
-// btn.addEventListener("click", () => {
-//   // alert("YOU CLICKED THE BUTTON");
-//   // btn.classList.toggle("purple");
-
-
-// });
-
-
 const hamburger = document.querySelector(".hamburger");
 const bar1 = document.querySelector(".bar1");
 const bar2 = document.querySelector(".bar2");
